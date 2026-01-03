@@ -16,7 +16,8 @@ The 12 V source is used to power the titillating/irrigation pump, whereas the 5V
 
 - **Code:**  
   The example working code works as an  simplified model for 
-
+src/codeDemo.jpg
+<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/codeDemo.jpg" />#
 ---
 
 ## **Instructions**
