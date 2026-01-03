@@ -15,9 +15,9 @@ The PCB also includes additional features/slots for:
 The 12 V source is used to power the titillating/irrigation pump, whereas the 5V powers the dosing pump and draing pump.
 
 - **Code:**  
-  The example working code works as an  simplified model for 
-src/codeDemo.jpg
-<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/codeDemo.jpg" />#
+  The example working code provided works with  as an  simplified model for working with small scale hydroponics, with automated dosing according to TDS value, which can be caliberated in the code according to needs of user. 
+the 
+<img width="1420" height="1480" alt="image" src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/codeDemo.jpg" />#
 ---
 
 ## **Instructions**
