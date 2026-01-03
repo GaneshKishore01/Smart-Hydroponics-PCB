@@ -16,6 +16,16 @@ The 12 V source is used to power the titillating/irrigation pump, whereas the 5V
 
 - **Code:**
 The example code provided works with  as an  simplified model for working with small scale hydroponics, with automated dosing according to TDS value, which can be caliberated in the code according to needs of user, along with alternating modes between manual and automatic nutrient dosing. While continiously
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
