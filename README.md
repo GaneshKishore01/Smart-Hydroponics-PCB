@@ -7,7 +7,7 @@ A ready-to-use printed circuit board capable of measuring pH, TDS, temprature & 
 The PCB also includes additional features/slots for:
 - s3231 i2c rtc clock module for keeping Real world time
 - Capable of switching 16 hours light and 8 hours darkness 
-- Oled I2C with 4 buttons
+- Oled I2C SSD1306 with 4 buttons
 
 ## **How it works**
 - **Power supply:**  
