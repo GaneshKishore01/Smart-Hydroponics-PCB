@@ -25,7 +25,16 @@ The example code provided works with  as an  simplified model for working with s
       <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
