@@ -15,7 +15,7 @@ The PCB also includes additional features/slots for:
 The 12 V source is used to power the titillating/irrigation pump, whereas the 5V powers the dosing pump and draing pump.
 
 - **Code:**
-The example code provided works with  as an  simplified model for working with small scale hydroponics, with automated dosing according to TDS value, which can be caliberated in the code according to needs of user, along with alternating modes between manual and automatic nutrient dosing. While continiously
+The example code provided works with  as an  simplified model for working with small scale hydroponics, with automated dosing according to TDS value, which can be caliberated in the code according to needs of user, along with alternating modes between manual and automatic nutrient dosing. While continiously monitoring TDS, temprature & Humidity
 <table>
   <tr>
     <td align="center">
