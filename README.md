@@ -14,8 +14,8 @@ The PCB also includes additional features/slots for:
   It is powered by **12V barrel jack**, which breakes into smaller 5V to power arduino and sensors via a LM2596 buck.
 The 12 V source is used to power the titillating/irrigation pump, whereas the 5V powers the dosing pump and draing pump.
 
-- **Magnet search:**  
-  Uses **Jackett** to aggregate torrent search results from multiple indexers.
+- **Code:**  
+  The example working code works as an  simplified model for 
 
 ---
 
