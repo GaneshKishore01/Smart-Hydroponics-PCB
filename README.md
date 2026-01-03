@@ -20,11 +20,9 @@ The 12 V source is used to power the titillating/irrigation pump, whereas the 5V
 ---
 
 ## **Instructions**
-1. Download `MSMT.zip` from releases.
-2. **Extract** the contents of `MSMT.zip`
-3. **Copy** the `MTSM` folder from `/assets` into:  
-   `C:\Users\GANESH\AppData\Roaming\`
-4. **Configure** the Jackett and qBittorrent ports in the **Settings** tab
+1. Download `Hydroponic PCB.rar`.
+2. **Extract** & **SOLDER** the components of PCB according to **BOM**`
+3. **Upload** the code into `Arduino`.
 5. Enjoy!
 
 ---
